@@ -1,6 +1,4 @@
-# example
-
-> A Vue.js project
+A delve into writing SPA's using VueJS as the primary language. This will be a repository of mostly front-end work that links to other web page clones.
 
 ## Build Setup
 
